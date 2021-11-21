@@ -1,5 +1,5 @@
 # About
-Kahoot.py is a library to interact with the Kahoot API.
+Kahoot.py is a library to interact with the Kahoots API.
 
 # Installation
 
