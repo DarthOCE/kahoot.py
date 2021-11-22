@@ -18,7 +18,7 @@ bot.on("joined",joinHandle)
 Since this is basically a translation of JavaScript to Python, expect issues and bugs.
 
 Documentation:
-See [kahoot.js-updated](https://github.com/theusaf/kahoot.js-updated/blob/master/Documentation.md). The API is very similar, besides having no Promises.
+See [kahoot.js-updated](https://github.com/DarthOCE/kahoot.py/blob/main/Documentation.md). The API is very similar, besides having no Promises.
 
 
 ![Footer](./footer.png)
