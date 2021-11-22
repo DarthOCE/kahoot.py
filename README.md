@@ -1,6 +1,6 @@
 ![Header](./header.png)
-<h1 align="center">DarthOCE</h1>
-<p align="center">Intermediate Developer, Java, Python, Node.js, Objective-C, HTML, CSS, JS, JSON, Lua, Batchfile and C#</p>
+<h1 align="center">Kahoot.py</h1>
+<p align="center">Basic python Kahoot API</p>
 
 <h1 align="center">Installation</h1>
 
